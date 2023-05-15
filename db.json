@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "test",
+      "lastName": "test1",
+      "age": "21",
+      "gender": "test",
+      "mobile": "2382363921"
+    },
+    {
+      "id": 4,
+      "firstName": "tete",
+      "lastName": "tete",
+      "age": "32",
+      "gender": "tete",
+      "mobile": "2323423512"
+    },
+    {
+      "id": 5,
+      "firstName": "hello",
+      "lastName": "hello",
+      "age": "12",
+      "gender": "hello",
+      "mobile": "21342311463"
+    },
+    {
+      "id": 6,
+      "firstName": "rohit",
+      "lastName": "rajesh",
+      "age": "20",
+      "gender": "male",
+      "mobile": "7763979231"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
